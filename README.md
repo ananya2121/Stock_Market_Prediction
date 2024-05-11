@@ -6,10 +6,15 @@ This project contains the implementation of various machine learning models for 
 Models Implemented
 
 Artificial Neural Networks (ANN): Utilizes a feedforward neural network to learn patterns in the data.
+
 Convolutional Neural Networks (CNN): Applies convolutional layers to learn spatial hierarchies in the input data.
+
 Multi-Layer Perceptron (MLP): A classic neural network architecture with multiple layers.
+
 Gradient Boosting Tree: Utilizes an ensemble of decision trees to make predictions.
+
 Long Short-Term Memory (LSTM): Specifically designed to capture long-term dependencies in sequential data.
+
 Random Forest: An ensemble learning method that constructs a multitude of decision trees and outputs the mode of the classes or mean prediction of the individual trees.
 
 Dataset
